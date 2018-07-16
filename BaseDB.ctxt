@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=path
+comment0.target=void\ deleteDir(java.io.File)
+comment0.text=\r\n\ L\u00F6scht\ rekursiv\ ein\ Verzeichninis\ mit\ allen\ Unterverzeichnissen\ und\ Dateien.\r\n\ \r\n\ @param\ path\ String\ mit\ dem\ Name\ f\u00FCr\ das\ Verzeichnis\r\n
+comment1.params=fname
+comment1.target=void\ unzip(java.lang.String)
+comment1.text=\r\n\ Entpackt\ eine\ Archiv\ im\ zip-Format.\r\n\ \r\n\ @param\ fname\ String\r\n
+comment2.params=fname
+comment2.target=void\ setupDB(java.lang.String)
+comment2.text=\r\n\ Entpackt\ eine\ Base-Daenbank\ und\ legt\ Unterverzeichnisse\ an,\ die\ von\ HSQL\ gelesen\ werden\ k\u00F6nnen.\r\n\ @param\ fname\ String\ Name\ der\ Base\ Datenbank.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main-Methode,\ die\ eine\ Base-Datenbank\ aufbereitet\ und\ anschlie\u00DFend\ einen\ SQL-Befehl\ testet,\r\n\ \r\n\ @param\ args\r\n
+numComments=4
